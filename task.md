@@ -1,12 +1,13 @@
 #TASK LIST
-
 ---
 
-- [ ]`python`
-- [ ]basic of *bash*
-- [ ]system calls 
-- [ ]password cracking and network spoofing/sniffing
-- [ ]a repo of _mine_
-- [ ]contribute to some communities
-- [ ]complete the broken systems list
-
+- [ ] Python for You and Me.
+- [ ] Web Development.
+- [ ] Linux From Scratch.
+- [ ] DGPlug Training.
+- [ ] Debian Testing Handbook.
+- [ ] Shell Scripting.
+- [ ] Networking.
+- [ ] DSA in C.
+- [ ] FOSS Contribution.
+- [ ] Complete the broken systems list.
